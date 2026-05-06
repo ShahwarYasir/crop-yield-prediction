@@ -79,7 +79,7 @@ Created 224 features from 4 base columns:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/crop-yield-prediction.git
+git clone https://github.com/ShahwarYasir/crop-yield-prediction.git
 cd crop-yield-prediction
 ```
 
